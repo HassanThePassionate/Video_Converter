@@ -1,6 +1,6 @@
 .footer {
   margin-top: 80px;
-  background-color: var(--box-color);
+  background-color: var(--light-color);
 }
 .footer svg {
   height: 24px;
@@ -17,13 +17,13 @@
 .global_links {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 15px;
   max-width: 100%;
   list-style: none;
   padding: 0 0 24px;
 }
 .footer_link {
-  color: var(--primary-color);
+  color: var(--dark-color);
   display: inline-block;
   font-size: 16px;
   font-weight: 500;

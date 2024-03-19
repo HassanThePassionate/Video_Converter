@@ -1,6 +1,6 @@
 .footer_upper {
   padding: 24px 0;
-  border-bottom: 1px solid var(--hover-color);
+  border-bottom: 1px solid var(--hero-color);
 }
 .socials {
   display: flex;
@@ -14,7 +14,6 @@
   align-self: center;
   display: flex;
   margin: 0;
-  font-family: Roboto;
 }
 .title {
   flex: 0 0 auto;
@@ -22,10 +21,9 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  font-family: Roboto;
   display: flex;
   align-items: center;
-  color: var(--primary-color);
+  color: var(--dark-color);
 }
 .text {
   margin-right: 24px;
@@ -65,5 +63,5 @@
   padding: 2px;
 }
 .socials_iteam a:hover {
-  background-color: var(--hover-color);
+  background-color: var(--hero-color);
 }

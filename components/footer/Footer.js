@@ -1,4 +1,3 @@
-import React from "react";
 import UpperFooter from "./UpperFooter/UpperFooter";
 import GlobalFooter from "./GlobalFooter/GlobalFooter";
 import Logo from "../nav/logo/Logo";
