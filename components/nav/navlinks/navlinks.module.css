@@ -1,0 +1,25 @@
+.nav_list {
+  align-items: center;
+  display: flex;
+  margin-left: 60px;
+}
+.nav_links {
+  align-items: center;
+  color: var(--light-color);
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+  font-size: 14px;
+  height: 120px;
+  justify-content: center;
+  width: 160px;
+  gap: 5px;
+  text-align: center;
+  font-family: system-ui;
+}
+.nav_links:hover {
+  background-color: #1acc80;
+}
+.nav_icon {
+  font-size: 30px;
+}

@@ -1,0 +1,7 @@
+.wrapper {
+  background-color: var(--hero-color);
+  height: 400px;
+  padding: 12px;
+  overflow: hidden;
+  border-radius: 12px;
+}

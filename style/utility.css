@@ -1,0 +1,15 @@
+.center {
+  align-items: center;
+}
+.flex {
+  display: flex;
+}
+.j-center {
+  justify-content: center;
+}
+.j-between {
+  justify-content: space-between;
+}
+.active {
+  background-color: #1acc80;
+}

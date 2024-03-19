@@ -1,0 +1,9 @@
+.wrapper {
+  align-items: center;
+  display: flex;
+  height: 120px;
+}
+.navbar {
+  background-color: var(--nav-color);
+  box-shadow: 0 8px 10px #cbcbcb;
+}

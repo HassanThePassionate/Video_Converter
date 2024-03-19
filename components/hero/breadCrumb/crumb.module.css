@@ -1,0 +1,7 @@
+.wrapper {
+  margin: 20px 0;
+}
+.wrapper p {
+  font-weight: 400;
+  font-family: system-ui;
+}
